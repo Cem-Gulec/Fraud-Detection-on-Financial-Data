@@ -22,4 +22,4 @@ Dataset link: https://www.kaggle.com/ntnu-testimon/paysim1
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- ALL-CONTRIBUTORS-LIST:END --> 
