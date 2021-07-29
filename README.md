@@ -1,7 +1,7 @@
 # Data-Science-Project
 Title: Fraud Detection on Financial Data
 
-Dataset link: https://www.kaggle.com/ntnu-testimon/paysim1
+Dataset link: https://www.kaggle.com/ealaxi/paysim1
 
 ## Contributors ✨
 
